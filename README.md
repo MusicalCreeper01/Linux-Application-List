@@ -376,3 +376,7 @@ Localizations are available via object.lang.<code e.g "en">.
   Actions: [ 'new-window' ] }
 ```
 
+# Known Issues & TODO
+
+ * Right now Actions are not fully supported, they will be ignored if found in the dekstop entry. 
+     * (Is/Will be) Fixed: Withing next could versions
