@@ -4,6 +4,10 @@ Node module for parsing `/usr/share/applications` to get a list of the installed
 
 If `/usr/share/applications` is not avaliable it will also try to search `/usr/local/share/applications` or `~/.local/share/applications` before untimitly return undefined if none are avaliable
 
+# Install
+
+`npm install linux-app-list`
+
 # Usage 
 ```
 const linux_apps = require('linux-app-list')();
