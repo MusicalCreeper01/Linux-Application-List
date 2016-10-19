@@ -1,0 +1,18 @@
+{
+  "name": "linux-app-list",
+  "version": "1.0.0",
+  "description": "Get the info of the applications installed that are listed in /usr/share/applications and/or similar paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node test"
+  },
+  "keywords": [
+    "linux",
+    "xorg",
+    "x11",
+    "applications"
+  ],
+  "author": "Keith Mitchell <keith.mitchell@live.ca> (http://keithcod.es/)",
+  "license": "MIT"
+}
