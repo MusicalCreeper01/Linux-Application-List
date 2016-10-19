@@ -378,7 +378,7 @@ Localizations are available via object.lang.<code e.g "en">.
 
 # Known Issues & TODO
 
- * Right now Actions are not fully supported, they will be ignored if found in the dekstop entry. 
+ * Right now Actions are not fully supported, they will be ignored if found in the desktop entry. 
      * (Is/Will be) Fixed: Withing next could versions
 
 ## Release History
