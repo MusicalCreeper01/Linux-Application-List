@@ -384,3 +384,4 @@ Localizations are available via object.lang.<code e.g "en">.
 ## Release History
 
 * 1.0.0 Initial release
+* 1.0.0 Package typo fix
