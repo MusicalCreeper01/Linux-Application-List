@@ -380,3 +380,7 @@ Localizations are available via object.lang.<code e.g "en">.
 
  * Right now Actions are not fully supported, they will be ignored if found in the dekstop entry. 
      * (Is/Will be) Fixed: Withing next could versions
+
+## Release History
+
+* 1.0.0 Initial release
