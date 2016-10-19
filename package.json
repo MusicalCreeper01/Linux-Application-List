@@ -7,6 +7,10 @@
     "test": "node test",
     "start": "node test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MusicalCreeper01/Linux-Application-List.git"
+  },
   "keywords": [
     "linux",
     "xorg",
@@ -14,5 +18,11 @@
     "applications"
   ],
   "author": "Keith Mitchell <keith.mitchell@live.ca> (http://keithcod.es/)",
-  "license": "MIT"
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url":   "https://github.com/MusicalCreeper01/Linux-Application-List/blob/master/LICENSE"
+    }
+  ],  
 }
