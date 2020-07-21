@@ -76,7 +76,7 @@ function parse_keypair (keypair){
 
     key = desktop_entries_mapping[key] != undefined ? desktop_entries_mapping[key] : key;
 
-    var value = keypair.split('=')[1];
+    var value = keypair.substring(keypair.indexOf('=') + 1);
     if(value != undefined){
         if(value.indexOf(';') > -1){
             value = value.split(';');
